@@ -1,0 +1,679 @@
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 36383 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 41.09%
+
+RAxML computation of per-site log likelihoods
+Using 79 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1010
+Name: accD.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 1
+Alignment Patterns: 555
+Name: atpA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 2
+Alignment Patterns: 541
+Name: atpB.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 3
+Alignment Patterns: 228
+Name: atpE.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 4
+Alignment Patterns: 317
+Name: atpF.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 5
+Alignment Patterns: 77
+Name: atpH.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 6
+Alignment Patterns: 264
+Name: atpI.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 7
+Alignment Patterns: 636
+Name: ccsA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 8
+Alignment Patterns: 437
+Name: cemA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 9
+Alignment Patterns: 422
+Name: clpP.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 10
+Alignment Patterns: 136
+Name: infA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 11
+Alignment Patterns: 1170
+Name: matK.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 12
+Alignment Patterns: 517
+Name: ndhA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 13
+Alignment Patterns: 275
+Name: ndhB.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 14
+Alignment Patterns: 136
+Name: ndhC.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 15
+Alignment Patterns: 921
+Name: ndhD.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 16
+Alignment Patterns: 136
+Name: ndhE.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 17
+Alignment Patterns: 1378
+Name: ndhF.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 18
+Alignment Patterns: 274
+Name: ndhG.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 19
+Alignment Patterns: 433
+Name: ndhH.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 20
+Alignment Patterns: 257
+Name: ndhI.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 21
+Alignment Patterns: 199
+Name: ndhJ.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 22
+Alignment Patterns: 445
+Name: ndhK.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 23
+Alignment Patterns: 429
+Name: petA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 24
+Alignment Patterns: 213
+Name: petB.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 25
+Alignment Patterns: 221
+Name: petD.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 26
+Alignment Patterns: 35
+Name: petG.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 27
+Alignment Patterns: 61
+Name: petL.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 28
+Alignment Patterns: 42
+Name: petN.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 29
+Alignment Patterns: 607
+Name: psaA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 30
+Alignment Patterns: 568
+Name: psaB.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 31
+Alignment Patterns: 75
+Name: psaC.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 32
+Alignment Patterns: 69
+Name: psaI.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 33
+Alignment Patterns: 64
+Name: psaJ.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 34
+Alignment Patterns: 281
+Name: psbA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 35
+Alignment Patterns: 451
+Name: psbB.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 36
+Alignment Patterns: 424
+Name: psbC.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 37
+Alignment Patterns: 282
+Name: psbD.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 38
+Alignment Patterns: 74
+Name: psbE.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 39
+Alignment Patterns: 37
+Name: psbF.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 40
+Alignment Patterns: 121
+Name: psbH.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 41
+Alignment Patterns: 71
+Name: psbI.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 42
+Alignment Patterns: 51
+Name: psbJ.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 43
+Alignment Patterns: 102
+Name: psbK.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 44
+Alignment Patterns: 53
+Name: psbL.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 45
+Alignment Patterns: 52
+Name: psbM.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 46
+Alignment Patterns: 47
+Name: psbN.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 47
+Alignment Patterns: 54
+Name: psbT.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 48
+Alignment Patterns: 65
+Name: psbZ.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 49
+Alignment Patterns: 501
+Name: rbcL.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 50
+Alignment Patterns: 168
+Name: rpl14.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 51
+Alignment Patterns: 243
+Name: rpl16.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 52
+Alignment Patterns: 292
+Name: rpl20.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 53
+Alignment Patterns: 528
+Name: rpl22.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 54
+Alignment Patterns: 117
+Name: rpl23.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 55
+Alignment Patterns: 382
+Name: rpl2.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 56
+Alignment Patterns: 154
+Name: rpl32.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 57
+Alignment Patterns: 128
+Name: rpl33.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 58
+Alignment Patterns: 58
+Name: rpl36.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 59
+Alignment Patterns: 622
+Name: rpoA.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 60
+Alignment Patterns: 1316
+Name: rpoB.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 61
+Alignment Patterns: 1017
+Name: rpoC1.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 62
+Alignment Patterns: 2386
+Name: rpoC2.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 63
+Alignment Patterns: 273
+Name: rps11.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 64
+Alignment Patterns: 143
+Name: rps12.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 65
+Alignment Patterns: 139
+Name: rps14.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 66
+Alignment Patterns: 227
+Name: rps15.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 67
+Alignment Patterns: 191
+Name: rps16.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 68
+Alignment Patterns: 233
+Name: rps18.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 69
+Alignment Patterns: 167
+Name: rps19.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 70
+Alignment Patterns: 367
+Name: rps2.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 71
+Alignment Patterns: 490
+Name: rps3.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 72
+Alignment Patterns: 342
+Name: rps4.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 73
+Alignment Patterns: 143
+Name: rps7.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 74
+Alignment Patterns: 260
+Name: rps8.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 75
+Alignment Patterns: 5557
+Name: ycf1.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 76
+Alignment Patterns: 4163
+Name: ycf2.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 77
+Alignment Patterns: 199
+Name: ycf3.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 78
+Alignment Patterns: 264
+Name: ycf4.fa.cds.fsa.aln
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS-AVX -f g -T 3 -s FSA_All_Nuc.phy -q FSA_All_Nuc.model -m GTRGAMMA -z TestTops.tre -n Topologies_SSLL 
+
+
+
+
+Found 2 trees in File TestTops.tre
+
+Tree 0: -701115.310985
+Tree 1: -690661.640676
+
+
+Time for Optimization of per-site log likelihoods 109.436036
+Per-site Log Likelihoods written to File /home/jfwalker/Desktop/ConflictAndChloroplasts/FSAruns/AllSeqs/SpeciesTree/TwoTopology/RAxML_perSiteLLs.Topologies_SSLL in Tree-Puzzle format
+Execution information file written to :  /home/jfwalker/Desktop/ConflictAndChloroplasts/FSAruns/AllSeqs/SpeciesTree/TwoTopology/RAxML_info.Topologies_SSLL

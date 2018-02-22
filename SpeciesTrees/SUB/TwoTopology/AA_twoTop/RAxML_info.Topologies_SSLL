@@ -1,0 +1,1090 @@
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 12966 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 24.02%
+
+RAxML computation of per-site log likelihoods
+Using 79 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 488
+Name: accD.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 1
+Alignment Patterns: 145
+Name: atpA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 2
+Alignment Patterns: 109
+Name: atpB.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 3
+Alignment Patterns: 81
+Name: atpE.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 4
+Alignment Patterns: 119
+Name: atpF.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 5
+Alignment Patterns: 18
+Name: atpH.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 6
+Alignment Patterns: 82
+Name: atpI.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 7
+Alignment Patterns: 237
+Name: ccsA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 8
+Alignment Patterns: 183
+Name: cemA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 9
+Alignment Patterns: 206
+Name: clpP.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 10
+Alignment Patterns: 63
+Name: infA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 11
+Alignment Patterns: 463
+Name: matK.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 12
+Alignment Patterns: 205
+Name: ndhA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 13
+Alignment Patterns: 152
+Name: ndhB.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 14
+Alignment Patterns: 66
+Name: ndhC.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 15
+Alignment Patterns: 256
+Name: ndhD.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 16
+Alignment Patterns: 54
+Name: ndhE.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 17
+Alignment Patterns: 533
+Name: ndhF.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 18
+Alignment Patterns: 115
+Name: ndhG.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 19
+Alignment Patterns: 121
+Name: ndhH.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 20
+Alignment Patterns: 102
+Name: ndhI.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 21
+Alignment Patterns: 86
+Name: ndhJ.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 22
+Alignment Patterns: 183
+Name: ndhK.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 23
+Alignment Patterns: 134
+Name: petA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 24
+Alignment Patterns: 51
+Name: petB.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 25
+Alignment Patterns: 88
+Name: petD.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 26
+Alignment Patterns: 21
+Name: petG.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 27
+Alignment Patterns: 26
+Name: petL.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 28
+Alignment Patterns: 19
+Name: petN.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 29
+Alignment Patterns: 106
+Name: psaA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 30
+Alignment Patterns: 96
+Name: psaB.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 31
+Alignment Patterns: 28
+Name: psaC.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 32
+Alignment Patterns: 31
+Name: psaI.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 33
+Alignment Patterns: 30
+Name: psaJ.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 34
+Alignment Patterns: 42
+Name: psbA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 35
+Alignment Patterns: 75
+Name: psbB.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 36
+Alignment Patterns: 88
+Name: psbC.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 37
+Alignment Patterns: 42
+Name: psbD.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 38
+Alignment Patterns: 30
+Name: psbE.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 39
+Alignment Patterns: 17
+Name: psbF.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 40
+Alignment Patterns: 53
+Name: psbH.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 41
+Alignment Patterns: 38
+Name: psbI.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 42
+Alignment Patterns: 23
+Name: psbJ.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 43
+Alignment Patterns: 48
+Name: psbK.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 44
+Alignment Patterns: 18
+Name: psbL.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 45
+Alignment Patterns: 24
+Name: psbM.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 46
+Alignment Patterns: 22
+Name: psbN.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 47
+Alignment Patterns: 28
+Name: psbT.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 48
+Alignment Patterns: 37
+Name: psbZ.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 49
+Alignment Patterns: 102
+Name: rbcL.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 50
+Alignment Patterns: 58
+Name: rpl14.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 51
+Alignment Patterns: 80
+Name: rpl16.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 52
+Alignment Patterns: 100
+Name: rpl20.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 53
+Alignment Patterns: 195
+Name: rpl22.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 54
+Alignment Patterns: 75
+Name: rpl23.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 55
+Alignment Patterns: 144
+Name: rpl2.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 56
+Alignment Patterns: 73
+Name: rpl32.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 57
+Alignment Patterns: 52
+Name: rpl33.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 58
+Alignment Patterns: 23
+Name: rpl36.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 59
+Alignment Patterns: 235
+Name: rpoA.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 60
+Alignment Patterns: 520
+Name: rpoB.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 61
+Alignment Patterns: 399
+Name: rpoC1.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 62
+Alignment Patterns: 905
+Name: rpoC2.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 63
+Alignment Patterns: 98
+Name: rps11.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 64
+Alignment Patterns: 68
+Name: rps12.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 65
+Alignment Patterns: 60
+Name: rps14.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 66
+Alignment Patterns: 97
+Name: rps15.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 67
+Alignment Patterns: 58
+Name: rps16.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 68
+Alignment Patterns: 87
+Name: rps18.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 69
+Alignment Patterns: 70
+Name: rps19.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 70
+Alignment Patterns: 133
+Name: rps2.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 71
+Alignment Patterns: 165
+Name: rps3.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 72
+Alignment Patterns: 118
+Name: rps4.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 73
+Alignment Patterns: 77
+Name: rps7.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 74
+Alignment Patterns: 106
+Name: rps8.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 75
+Alignment Patterns: 1705
+Name: ycf1.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 76
+Alignment Patterns: 1696
+Name: ycf2.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 77
+Alignment Patterns: 62
+Name: ycf3.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+Partition: 78
+Alignment Patterns: 123
+Name: ycf4.fa.pep.fsa.aln
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS-AVX -f g -T 3 -s ProtFSA.phy -q ProtFSA.model -m PROTGAMMAAUTO -z TwoTrees.tre -n Topologies_SSLL 
+
+
+
+
+Found 2 trees in File TwoTrees.tre
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: DUMMY2 likelihood -6522.564192 with empirical base frequencies
+	Partition: 1 best-scoring AA model: DUMMY2 likelihood -2821.717359 with empirical base frequencies
+	Partition: 2 best-scoring AA model: DUMMY2 likelihood -2484.331892 with empirical base frequencies
+	Partition: 3 best-scoring AA model: DUMMY2 likelihood -945.643388 with empirical base frequencies
+	Partition: 4 best-scoring AA model: DUMMY2 likelihood -1559.928255 with empirical base frequencies
+	Partition: 5 best-scoring AA model: JTT likelihood -272.352966 with empirical base frequencies
+	Partition: 6 best-scoring AA model: DUMMY2 likelihood -1360.095380 with empirical base frequencies
+	Partition: 7 best-scoring AA model: DUMMY2 likelihood -3513.219753 with empirical base frequencies
+	Partition: 8 best-scoring AA model: DUMMY2 likelihood -2379.255518 with empirical base frequencies
+	Partition: 9 best-scoring AA model: JTTDCMUT likelihood -2431.976796 with empirical base frequencies
+	Partition: 10 best-scoring AA model: JTT likelihood -618.897552 with empirical base frequencies
+	Partition: 11 best-scoring AA model: DUMMY2 likelihood -6895.705229 with empirical base frequencies
+	Partition: 12 best-scoring AA model: DUMMY2 likelihood -2586.973464 with empirical base frequencies
+	Partition: 13 best-scoring AA model: STMTREV likelihood -2473.265336 with empirical base frequencies
+	Partition: 14 best-scoring AA model: HIVW likelihood -779.100805 with empirical base frequencies
+	Partition: 15 best-scoring AA model: DUMMY2 likelihood -3969.439145 with empirical base frequencies
+	Partition: 16 best-scoring AA model: STMTREV likelihood -661.071579 with empirical base frequencies
+	Partition: 17 best-scoring AA model: DUMMY2 likelihood -7963.882928 with empirical base frequencies
+	Partition: 18 best-scoring AA model: STMTREV likelihood -1479.144092 with empirical base frequencies
+	Partition: 19 best-scoring AA model: DUMMY2 likelihood -2280.083582 with empirical base frequencies
+	Partition: 20 best-scoring AA model: HIVW likelihood -1324.622089 with empirical base frequencies
+	Partition: 21 best-scoring AA model: DUMMY2 likelihood -1062.742489 with empirical base frequencies
+	Partition: 22 best-scoring AA model: DUMMY2 likelihood -2241.905865 with empirical base frequencies
+	Partition: 23 best-scoring AA model: DUMMY2 likelihood -2040.841410 with empirical base frequencies
+	Partition: 24 best-scoring AA model: STMTREV likelihood -987.649733 with empirical base frequencies
+	Partition: 25 best-scoring AA model: DUMMY2 likelihood -934.823428 with fixed base frequencies
+	Partition: 26 best-scoring AA model: STMTREV likelihood -160.609885 with empirical base frequencies
+	Partition: 27 best-scoring AA model: HIVW likelihood -220.059793 with empirical base frequencies
+	Partition: 28 best-scoring AA model: CPREV likelihood -128.663774 with empirical base frequencies
+	Partition: 29 best-scoring AA model: CPREV likelihood -3349.959517 with empirical base frequencies
+	Partition: 30 best-scoring AA model: DUMMY2 likelihood -3215.757180 with empirical base frequencies
+	Partition: 31 best-scoring AA model: STMTREV likelihood -372.610315 with empirical base frequencies
+	Partition: 32 best-scoring AA model: DUMMY2 likelihood -298.667754 with empirical base frequencies
+	Partition: 33 best-scoring AA model: DUMMY likelihood -268.139748 with empirical base frequencies
+	Partition: 34 best-scoring AA model: JTTDCMUT likelihood -1428.140939 with empirical base frequencies
+	Partition: 35 best-scoring AA model: JTTDCMUT likelihood -2242.923036 with empirical base frequencies
+	Partition: 36 best-scoring AA model: CPREV likelihood -2003.009135 with fixed base frequencies
+	Partition: 37 best-scoring AA model: VT likelihood -1358.708934 with empirical base frequencies
+	Partition: 38 best-scoring AA model: HIVW likelihood -389.317405 with empirical base frequencies
+	Partition: 39 best-scoring AA model: STMTREV likelihood -153.232206 with empirical base frequencies
+	Partition: 40 best-scoring AA model: HIVB likelihood -558.129694 with empirical base frequencies
+	Partition: 41 best-scoring AA model: STMTREV likelihood -256.135337 with empirical base frequencies
+	Partition: 42 best-scoring AA model: HIVW likelihood -217.116946 with empirical base frequencies
+	Partition: 43 best-scoring AA model: DUMMY2 likelihood -520.709282 with empirical base frequencies
+	Partition: 44 best-scoring AA model: STMTREV likelihood -134.920209 with empirical base frequencies
+	Partition: 45 best-scoring AA model: HIVW likelihood -173.892249 with empirical base frequencies
+	Partition: 46 best-scoring AA model: STMTREV likelihood -204.718930 with empirical base frequencies
+	Partition: 47 best-scoring AA model: STMTREV likelihood -200.698244 with empirical base frequencies
+	Partition: 48 best-scoring AA model: DUMMY2 likelihood -319.142781 with empirical base frequencies
+	Partition: 49 best-scoring AA model: WAG likelihood -2486.158657 with fixed base frequencies
+	Partition: 50 best-scoring AA model: DUMMY2 likelihood -731.209481 with empirical base frequencies
+	Partition: 51 best-scoring AA model: CPREV likelihood -970.865953 with empirical base frequencies
+	Partition: 52 best-scoring AA model: STMTREV likelihood -1199.137287 with empirical base frequencies
+	Partition: 53 best-scoring AA model: DUMMY2 likelihood -1990.644861 with empirical base frequencies
+	Partition: 54 best-scoring AA model: DUMMY2 likelihood -698.863175 with empirical base frequencies
+	Partition: 55 best-scoring AA model: DUMMY2 likelihood -1808.113614 with empirical base frequencies
+	Partition: 56 best-scoring AA model: WAG likelihood -812.606123 with empirical base frequencies
+	Partition: 57 best-scoring AA model: DUMMY2 likelihood -647.111312 with empirical base frequencies
+	Partition: 58 best-scoring AA model: DUMMY2 likelihood -209.337574 with empirical base frequencies
+	Partition: 59 best-scoring AA model: DUMMY2 likelihood -3248.767279 with empirical base frequencies
+	Partition: 60 best-scoring AA model: DUMMY2 likelihood -8196.541274 with empirical base frequencies
+	Partition: 61 best-scoring AA model: DUMMY2 likelihood -5653.835716 with empirical base frequencies
+	Partition: 62 best-scoring AA model: DUMMY2 likelihood -13643.625762 with empirical base frequencies
+	Partition: 63 best-scoring AA model: HIVB likelihood -1113.851481 with empirical base frequencies
+	Partition: 64 best-scoring AA model: PMB likelihood -723.344694 with empirical base frequencies
+	Partition: 65 best-scoring AA model: DUMMY2 likelihood -704.882032 with empirical base frequencies
+	Partition: 66 best-scoring AA model: DUMMY2 likelihood -988.460152 with empirical base frequencies
+	Partition: 67 best-scoring AA model: DUMMY2 likelihood -599.266838 with empirical base frequencies
+	Partition: 68 best-scoring AA model: STMTREV likelihood -887.852946 with empirical base frequencies
+	Partition: 69 best-scoring AA model: DUMMY2 likelihood -791.861730 with empirical base frequencies
+	Partition: 70 best-scoring AA model: DUMMY2 likelihood -1873.542567 with empirical base frequencies
+	Partition: 71 best-scoring AA model: DUMMY2 likelihood -2310.041780 with empirical base frequencies
+	Partition: 72 best-scoring AA model: DUMMY2 likelihood -1601.655001 with empirical base frequencies
+	Partition: 73 best-scoring AA model: DUMMY2 likelihood -830.542138 with empirical base frequencies
+	Partition: 74 best-scoring AA model: DUMMY2 likelihood -1207.618751 with empirical base frequencies
+	Partition: 75 best-scoring AA model: DUMMY2 likelihood -28527.831414 with empirical base frequencies
+	Partition: 76 best-scoring AA model: DUMMY2 likelihood -25065.767850 with empirical base frequencies
+	Partition: 77 best-scoring AA model: STMTREV likelihood -910.798688 with empirical base frequencies
+	Partition: 78 best-scoring AA model: DUMMY2 likelihood -1503.731126 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: DUMMY2 likelihood -6484.631984 with empirical base frequencies
+	Partition: 1 best-scoring AA model: DUMMY2 likelihood -2779.307593 with empirical base frequencies
+	Partition: 2 best-scoring AA model: DUMMY2 likelihood -2402.577002 with empirical base frequencies
+	Partition: 3 best-scoring AA model: DUMMY2 likelihood -950.194340 with empirical base frequencies
+	Partition: 4 best-scoring AA model: DUMMY2 likelihood -1560.028386 with empirical base frequencies
+	Partition: 5 best-scoring AA model: MTMAM likelihood -236.937340 with empirical base frequencies
+	Partition: 6 best-scoring AA model: DUMMY2 likelihood -1342.903612 with empirical base frequencies
+	Partition: 7 best-scoring AA model: DUMMY2 likelihood -3494.815248 with empirical base frequencies
+	Partition: 8 best-scoring AA model: DUMMY2 likelihood -2374.923759 with empirical base frequencies
+	Partition: 9 best-scoring AA model: JTTDCMUT likelihood -2415.123657 with empirical base frequencies
+	Partition: 10 best-scoring AA model: JTT likelihood -619.311770 with empirical base frequencies
+	Partition: 11 best-scoring AA model: DUMMY2 likelihood -6835.216531 with empirical base frequencies
+	Partition: 12 best-scoring AA model: DUMMY2 likelihood -2593.424476 with empirical base frequencies
+	Partition: 13 best-scoring AA model: STMTREV likelihood -2428.295328 with empirical base frequencies
+	Partition: 14 best-scoring AA model: HIVW likelihood -776.087312 with empirical base frequencies
+	Partition: 15 best-scoring AA model: DUMMY2 likelihood -3977.722299 with empirical base frequencies
+	Partition: 16 best-scoring AA model: STMTREV likelihood -660.326416 with empirical base frequencies
+	Partition: 17 best-scoring AA model: DUMMY2 likelihood -7905.137615 with empirical base frequencies
+	Partition: 18 best-scoring AA model: DUMMY2 likelihood -1482.466203 with empirical base frequencies
+	Partition: 19 best-scoring AA model: DUMMY2 likelihood -2256.366644 with empirical base frequencies
+	Partition: 20 best-scoring AA model: HIVW likelihood -1318.003193 with empirical base frequencies
+	Partition: 21 best-scoring AA model: DUMMY2 likelihood -1061.800275 with empirical base frequencies
+	Partition: 22 best-scoring AA model: DUMMY2 likelihood -2226.778032 with empirical base frequencies
+	Partition: 23 best-scoring AA model: DUMMY2 likelihood -2037.901227 with empirical base frequencies
+	Partition: 24 best-scoring AA model: STMTREV likelihood -929.299392 with empirical base frequencies
+	Partition: 25 best-scoring AA model: DUMMY2 likelihood -921.485428 with fixed base frequencies
+	Partition: 26 best-scoring AA model: STMTREV likelihood -155.835108 with empirical base frequencies
+	Partition: 27 best-scoring AA model: HIVW likelihood -219.382210 with empirical base frequencies
+	Partition: 28 best-scoring AA model: HIVB likelihood -124.295125 with empirical base frequencies
+	Partition: 29 best-scoring AA model: MTMAM likelihood -3177.159642 with empirical base frequencies
+	Partition: 30 best-scoring AA model: DUMMY2 likelihood -3032.802937 with empirical base frequencies
+	Partition: 31 best-scoring AA model: STMTREV likelihood -353.081416 with empirical base frequencies
+	Partition: 32 best-scoring AA model: DUMMY2 likelihood -298.195167 with empirical base frequencies
+	Partition: 33 best-scoring AA model: DUMMY likelihood -264.617646 with empirical base frequencies
+	Partition: 34 best-scoring AA model: FLU likelihood -1303.097711 with empirical base frequencies
+	Partition: 35 best-scoring AA model: FLU likelihood -2129.599430 with empirical base frequencies
+	Partition: 36 best-scoring AA model: DUMMY likelihood -1858.084604 with empirical base frequencies
+	Partition: 37 best-scoring AA model: MTZOA likelihood -1213.609076 with empirical base frequencies
+	Partition: 38 best-scoring AA model: HIVW likelihood -368.621095 with empirical base frequencies
+	Partition: 39 best-scoring AA model: STMTREV likelihood -132.855633 with empirical base frequencies
+	Partition: 40 best-scoring AA model: HIVB likelihood -551.860495 with empirical base frequencies
+	Partition: 41 best-scoring AA model: DUMMY likelihood -252.584778 with empirical base frequencies
+	Partition: 42 best-scoring AA model: HIVW likelihood -212.845881 with empirical base frequencies
+	Partition: 43 best-scoring AA model: DUMMY2 likelihood -519.731696 with empirical base frequencies
+	Partition: 44 best-scoring AA model: STMTREV likelihood -122.114402 with empirical base frequencies
+	Partition: 45 best-scoring AA model: HIVW likelihood -172.521182 with empirical base frequencies
+	Partition: 46 best-scoring AA model: STMTREV likelihood -194.537841 with empirical base frequencies
+	Partition: 47 best-scoring AA model: HIVB likelihood -197.250103 with empirical base frequencies
+	Partition: 48 best-scoring AA model: DUMMY2 likelihood -320.951617 with empirical base frequencies
+	Partition: 49 best-scoring AA model: CPREV likelihood -2389.486509 with empirical base frequencies
+	Partition: 50 best-scoring AA model: DUMMY2 likelihood -734.770248 with empirical base frequencies
+	Partition: 51 best-scoring AA model: CPREV likelihood -965.844140 with empirical base frequencies
+	Partition: 52 best-scoring AA model: STMTREV likelihood -1195.460084 with empirical base frequencies
+	Partition: 53 best-scoring AA model: DUMMY2 likelihood -1976.281465 with empirical base frequencies
+	Partition: 54 best-scoring AA model: DUMMY2 likelihood -698.700186 with empirical base frequencies
+	Partition: 55 best-scoring AA model: DUMMY2 likelihood -1816.116252 with empirical base frequencies
+	Partition: 56 best-scoring AA model: DAYHOFF likelihood -796.852769 with empirical base frequencies
+	Partition: 57 best-scoring AA model: DUMMY2 likelihood -645.099328 with empirical base frequencies
+	Partition: 58 best-scoring AA model: STMTREV likelihood -204.641165 with empirical base frequencies
+	Partition: 59 best-scoring AA model: DUMMY2 likelihood -3237.532627 with empirical base frequencies
+	Partition: 60 best-scoring AA model: DUMMY2 likelihood -8217.672736 with empirical base frequencies
+	Partition: 61 best-scoring AA model: DUMMY2 likelihood -5653.338929 with empirical base frequencies
+	Partition: 62 best-scoring AA model: DUMMY2 likelihood -13602.822206 with empirical base frequencies
+	Partition: 63 best-scoring AA model: HIVB likelihood -1114.611286 with empirical base frequencies
+	Partition: 64 best-scoring AA model: PMB likelihood -697.893552 with empirical base frequencies
+	Partition: 65 best-scoring AA model: DUMMY2 likelihood -706.046920 with empirical base frequencies
+	Partition: 66 best-scoring AA model: DUMMY2 likelihood -982.695568 with empirical base frequencies
+	Partition: 67 best-scoring AA model: DUMMY2 likelihood -594.733492 with empirical base frequencies
+	Partition: 68 best-scoring AA model: DUMMY2 likelihood -886.505751 with empirical base frequencies
+	Partition: 69 best-scoring AA model: DUMMY2 likelihood -791.039170 with empirical base frequencies
+	Partition: 70 best-scoring AA model: DUMMY2 likelihood -1877.914134 with empirical base frequencies
+	Partition: 71 best-scoring AA model: DUMMY2 likelihood -2299.610331 with empirical base frequencies
+	Partition: 72 best-scoring AA model: DUMMY2 likelihood -1596.454705 with empirical base frequencies
+	Partition: 73 best-scoring AA model: DUMMY2 likelihood -826.782018 with empirical base frequencies
+	Partition: 74 best-scoring AA model: DUMMY2 likelihood -1205.775422 with empirical base frequencies
+	Partition: 75 best-scoring AA model: DUMMY2 likelihood -28171.765883 with empirical base frequencies
+	Partition: 76 best-scoring AA model: DUMMY2 likelihood -24884.259147 with empirical base frequencies
+	Partition: 77 best-scoring AA model: STMTREV likelihood -899.419222 with empirical base frequencies
+	Partition: 78 best-scoring AA model: DUMMY2 likelihood -1512.407609 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: DUMMY2 likelihood -6479.632908 with empirical base frequencies
+	Partition: 1 best-scoring AA model: DUMMY2 likelihood -2782.073170 with empirical base frequencies
+	Partition: 2 best-scoring AA model: DUMMY2 likelihood -2405.229396 with empirical base frequencies
+	Partition: 3 best-scoring AA model: DUMMY2 likelihood -950.767857 with empirical base frequencies
+	Partition: 4 best-scoring AA model: DUMMY2 likelihood -1560.545668 with empirical base frequencies
+	Partition: 5 best-scoring AA model: MTMAM likelihood -236.874764 with empirical base frequencies
+	Partition: 6 best-scoring AA model: DUMMY2 likelihood -1343.905378 with empirical base frequencies
+	Partition: 7 best-scoring AA model: DUMMY2 likelihood -3492.147817 with empirical base frequencies
+	Partition: 8 best-scoring AA model: DUMMY2 likelihood -2374.763341 with empirical base frequencies
+	Partition: 9 best-scoring AA model: JTTDCMUT likelihood -2414.402889 with empirical base frequencies
+	Partition: 10 best-scoring AA model: JTT likelihood -619.766725 with empirical base frequencies
+	Partition: 11 best-scoring AA model: DUMMY2 likelihood -6819.889306 with empirical base frequencies
+	Partition: 12 best-scoring AA model: DUMMY2 likelihood -2594.898944 with empirical base frequencies
+	Partition: 13 best-scoring AA model: STMTREV likelihood -2430.021051 with empirical base frequencies
+	Partition: 14 best-scoring AA model: HIVW likelihood -776.770254 with empirical base frequencies
+	Partition: 15 best-scoring AA model: DUMMY2 likelihood -3979.984454 with empirical base frequencies
+	Partition: 16 best-scoring AA model: STMTREV likelihood -660.744997 with empirical base frequencies
+	Partition: 17 best-scoring AA model: DUMMY2 likelihood -7898.666038 with empirical base frequencies
+	Partition: 18 best-scoring AA model: DUMMY2 likelihood -1482.747158 with empirical base frequencies
+	Partition: 19 best-scoring AA model: DUMMY2 likelihood -2258.810382 with empirical base frequencies
+	Partition: 20 best-scoring AA model: DUMMY2 likelihood -1318.395928 with empirical base frequencies
+	Partition: 21 best-scoring AA model: DUMMY2 likelihood -1062.362468 with empirical base frequencies
+	Partition: 22 best-scoring AA model: DUMMY2 likelihood -2227.666182 with empirical base frequencies
+	Partition: 23 best-scoring AA model: DUMMY2 likelihood -2039.868160 with empirical base frequencies
+	Partition: 24 best-scoring AA model: STMTREV likelihood -930.473968 with empirical base frequencies
+	Partition: 25 best-scoring AA model: DUMMY2 likelihood -922.015998 with fixed base frequencies
+	Partition: 26 best-scoring AA model: STMTREV likelihood -156.011322 with empirical base frequencies
+	Partition: 27 best-scoring AA model: HIVW likelihood -219.480552 with empirical base frequencies
+	Partition: 28 best-scoring AA model: HIVB likelihood -124.069393 with empirical base frequencies
+	Partition: 29 best-scoring AA model: MTMAM likelihood -3173.367202 with empirical base frequencies
+	Partition: 30 best-scoring AA model: DUMMY2 likelihood -3035.250800 with empirical base frequencies
+	Partition: 31 best-scoring AA model: STMTREV likelihood -353.437482 with empirical base frequencies
+	Partition: 32 best-scoring AA model: DUMMY2 likelihood -298.232444 with empirical base frequencies
+	Partition: 33 best-scoring AA model: DUMMY likelihood -264.572616 with empirical base frequencies
+	Partition: 34 best-scoring AA model: FLU likelihood -1303.851205 with empirical base frequencies
+	Partition: 35 best-scoring AA model: FLU likelihood -2130.465316 with empirical base frequencies
+	Partition: 36 best-scoring AA model: DUMMY likelihood -1857.573438 with empirical base frequencies
+	Partition: 37 best-scoring AA model: MTZOA likelihood -1214.011229 with empirical base frequencies
+	Partition: 38 best-scoring AA model: HIVW likelihood -368.755724 with empirical base frequencies
+	Partition: 39 best-scoring AA model: STMTREV likelihood -132.909813 with empirical base frequencies
+	Partition: 40 best-scoring AA model: HIVB likelihood -552.142409 with empirical base frequencies
+	Partition: 41 best-scoring AA model: DUMMY likelihood -252.040004 with empirical base frequencies
+	Partition: 42 best-scoring AA model: HIVW likelihood -213.155108 with empirical base frequencies
+	Partition: 43 best-scoring AA model: DUMMY2 likelihood -519.869006 with empirical base frequencies
+	Partition: 44 best-scoring AA model: STMTREV likelihood -122.180968 with empirical base frequencies
+	Partition: 45 best-scoring AA model: HIVW likelihood -172.527177 with empirical base frequencies
+	Partition: 46 best-scoring AA model: STMTREV likelihood -194.773344 with empirical base frequencies
+	Partition: 47 best-scoring AA model: HIVB likelihood -197.386203 with empirical base frequencies
+	Partition: 48 best-scoring AA model: DUMMY2 likelihood -321.147716 with empirical base frequencies
+	Partition: 49 best-scoring AA model: CPREV likelihood -2390.932036 with empirical base frequencies
+	Partition: 50 best-scoring AA model: DUMMY2 likelihood -735.336074 with empirical base frequencies
+	Partition: 51 best-scoring AA model: CPREV likelihood -966.544510 with empirical base frequencies
+	Partition: 52 best-scoring AA model: STMTREV likelihood -1195.195305 with empirical base frequencies
+	Partition: 53 best-scoring AA model: DUMMY2 likelihood -1973.500458 with empirical base frequencies
+	Partition: 54 best-scoring AA model: DUMMY2 likelihood -699.183685 with empirical base frequencies
+	Partition: 55 best-scoring AA model: DUMMY2 likelihood -1817.432161 with empirical base frequencies
+	Partition: 56 best-scoring AA model: DAYHOFF likelihood -796.188945 with empirical base frequencies
+	Partition: 57 best-scoring AA model: DUMMY2 likelihood -645.047690 with empirical base frequencies
+	Partition: 58 best-scoring AA model: STMTREV likelihood -204.614079 with empirical base frequencies
+	Partition: 59 best-scoring AA model: DUMMY2 likelihood -3236.502608 with empirical base frequencies
+	Partition: 60 best-scoring AA model: DUMMY2 likelihood -8223.156255 with empirical base frequencies
+	Partition: 61 best-scoring AA model: DUMMY2 likelihood -5655.896084 with empirical base frequencies
+	Partition: 62 best-scoring AA model: DUMMY2 likelihood -13600.283738 with empirical base frequencies
+	Partition: 63 best-scoring AA model: HIVB likelihood -1115.108329 with empirical base frequencies
+	Partition: 64 best-scoring AA model: PMB likelihood -698.315878 with empirical base frequencies
+	Partition: 65 best-scoring AA model: DUMMY2 likelihood -706.634365 with empirical base frequencies
+	Partition: 66 best-scoring AA model: DUMMY2 likelihood -982.208423 with empirical base frequencies
+	Partition: 67 best-scoring AA model: DUMMY2 likelihood -594.746221 with empirical base frequencies
+	Partition: 68 best-scoring AA model: DUMMY2 likelihood -886.480382 with empirical base frequencies
+	Partition: 69 best-scoring AA model: DUMMY2 likelihood -791.283832 with empirical base frequencies
+	Partition: 70 best-scoring AA model: DUMMY2 likelihood -1879.003008 with empirical base frequencies
+	Partition: 71 best-scoring AA model: DUMMY2 likelihood -2298.510694 with empirical base frequencies
+	Partition: 72 best-scoring AA model: DUMMY2 likelihood -1597.402619 with empirical base frequencies
+	Partition: 73 best-scoring AA model: DUMMY2 likelihood -827.669628 with empirical base frequencies
+	Partition: 74 best-scoring AA model: DUMMY2 likelihood -1205.835379 with empirical base frequencies
+	Partition: 75 best-scoring AA model: DUMMY2 likelihood -28116.066064 with empirical base frequencies
+	Partition: 76 best-scoring AA model: DUMMY2 likelihood -24872.031980 with empirical base frequencies
+	Partition: 77 best-scoring AA model: STMTREV likelihood -900.001369 with empirical base frequencies
+	Partition: 78 best-scoring AA model: DUMMY2 likelihood -1513.233937 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: DUMMY2 likelihood -6479.031216 with empirical base frequencies
+	Partition: 1 best-scoring AA model: DUMMY2 likelihood -2782.482094 with empirical base frequencies
+	Partition: 2 best-scoring AA model: DUMMY2 likelihood -2405.583875 with empirical base frequencies
+	Partition: 3 best-scoring AA model: DUMMY2 likelihood -950.872365 with empirical base frequencies
+	Partition: 4 best-scoring AA model: DUMMY2 likelihood -1560.631053 with empirical base frequencies
+	Partition: 5 best-scoring AA model: MTMAM likelihood -236.869690 with empirical base frequencies
+	Partition: 6 best-scoring AA model: DUMMY2 likelihood -1344.076439 with empirical base frequencies
+	Partition: 7 best-scoring AA model: DUMMY2 likelihood -3491.853273 with empirical base frequencies
+	Partition: 8 best-scoring AA model: DUMMY2 likelihood -2374.774891 with empirical base frequencies
+	Partition: 9 best-scoring AA model: JTTDCMUT likelihood -2414.361873 with empirical base frequencies
+	Partition: 10 best-scoring AA model: JTT likelihood -619.856784 with empirical base frequencies
+	Partition: 11 best-scoring AA model: DUMMY2 likelihood -6818.482791 with empirical base frequencies
+	Partition: 12 best-scoring AA model: DUMMY2 likelihood -2595.148044 with empirical base frequencies
+	Partition: 13 best-scoring AA model: STMTREV likelihood -2430.324402 with empirical base frequencies
+	Partition: 14 best-scoring AA model: HIVW likelihood -776.870256 with empirical base frequencies
+	Partition: 15 best-scoring AA model: DUMMY2 likelihood -3980.274189 with empirical base frequencies
+	Partition: 16 best-scoring AA model: STMTREV likelihood -660.805838 with empirical base frequencies
+	Partition: 17 best-scoring AA model: DUMMY2 likelihood -7897.859084 with empirical base frequencies
+	Partition: 18 best-scoring AA model: DUMMY2 likelihood -1482.806033 with empirical base frequencies
+	Partition: 19 best-scoring AA model: DUMMY2 likelihood -2259.125002 with empirical base frequencies
+	Partition: 20 best-scoring AA model: DUMMY2 likelihood -1318.448406 with empirical base frequencies
+	Partition: 21 best-scoring AA model: DUMMY2 likelihood -1062.468520 with empirical base frequencies
+	Partition: 22 best-scoring AA model: DUMMY2 likelihood -2227.798380 with empirical base frequencies
+	Partition: 23 best-scoring AA model: DUMMY2 likelihood -2040.141096 with empirical base frequencies
+	Partition: 24 best-scoring AA model: STMTREV likelihood -930.626198 with empirical base frequencies
+	Partition: 25 best-scoring AA model: DUMMY2 likelihood -922.114546 with fixed base frequencies
+	Partition: 26 best-scoring AA model: STMTREV likelihood -156.038040 with empirical base frequencies
+	Partition: 27 best-scoring AA model: HIVW likelihood -219.492782 with empirical base frequencies
+	Partition: 28 best-scoring AA model: HIVB likelihood -124.067050 with empirical base frequencies
+	Partition: 29 best-scoring AA model: MTMAM likelihood -3173.241209 with empirical base frequencies
+	Partition: 30 best-scoring AA model: DUMMY2 likelihood -3035.585793 with empirical base frequencies
+	Partition: 31 best-scoring AA model: STMTREV likelihood -353.479685 with empirical base frequencies
+	Partition: 32 best-scoring AA model: DUMMY2 likelihood -298.237168 with empirical base frequencies
+	Partition: 33 best-scoring AA model: DUMMY likelihood -264.550578 with empirical base frequencies
+	Partition: 34 best-scoring AA model: FLU likelihood -1303.925939 with empirical base frequencies
+	Partition: 35 best-scoring AA model: FLU likelihood -2130.584536 with empirical base frequencies
+	Partition: 36 best-scoring AA model: DUMMY likelihood -1857.539825 with empirical base frequencies
+	Partition: 37 best-scoring AA model: MTZOA likelihood -1214.038242 with empirical base frequencies
+	Partition: 38 best-scoring AA model: HIVW likelihood -368.772776 with empirical base frequencies
+	Partition: 39 best-scoring AA model: STMTREV likelihood -132.915699 with empirical base frequencies
+	Partition: 40 best-scoring AA model: HIVB likelihood -552.168688 with empirical base frequencies
+	Partition: 41 best-scoring AA model: DUMMY likelihood -252.027904 with empirical base frequencies
+	Partition: 42 best-scoring AA model: HIVW likelihood -213.194906 with empirical base frequencies
+	Partition: 43 best-scoring AA model: DUMMY2 likelihood -519.895781 with empirical base frequencies
+	Partition: 44 best-scoring AA model: STMTREV likelihood -122.189292 with empirical base frequencies
+	Partition: 45 best-scoring AA model: HIVW likelihood -172.538200 with empirical base frequencies
+	Partition: 46 best-scoring AA model: STMTREV likelihood -194.803931 with empirical base frequencies
+	Partition: 47 best-scoring AA model: HIVB likelihood -197.410583 with empirical base frequencies
+	Partition: 48 best-scoring AA model: DUMMY2 likelihood -321.210892 with empirical base frequencies
+	Partition: 49 best-scoring AA model: CPREV likelihood -2391.084970 with empirical base frequencies
+	Partition: 50 best-scoring AA model: DUMMY2 likelihood -735.455528 with empirical base frequencies
+	Partition: 51 best-scoring AA model: CPREV likelihood -966.620426 with empirical base frequencies
+	Partition: 52 best-scoring AA model: STMTREV likelihood -1195.171952 with empirical base frequencies
+	Partition: 53 best-scoring AA model: DUMMY2 likelihood -1973.178946 with empirical base frequencies
+	Partition: 54 best-scoring AA model: DUMMY2 likelihood -699.275708 with empirical base frequencies
+	Partition: 55 best-scoring AA model: DUMMY2 likelihood -1817.744015 with empirical base frequencies
+	Partition: 56 best-scoring AA model: DAYHOFF likelihood -796.098459 with empirical base frequencies
+	Partition: 57 best-scoring AA model: DUMMY2 likelihood -645.042448 with empirical base frequencies
+	Partition: 58 best-scoring AA model: STMTREV likelihood -204.621549 with empirical base frequencies
+	Partition: 59 best-scoring AA model: DUMMY2 likelihood -3236.411100 with empirical base frequencies
+	Partition: 60 best-scoring AA model: DUMMY2 likelihood -8224.155046 with empirical base frequencies
+	Partition: 61 best-scoring AA model: DUMMY2 likelihood -5656.359304 with empirical base frequencies
+	Partition: 62 best-scoring AA model: DUMMY2 likelihood -13600.105817 with empirical base frequencies
+	Partition: 63 best-scoring AA model: HIVB likelihood -1115.174234 with empirical base frequencies
+	Partition: 64 best-scoring AA model: PMB likelihood -698.383886 with empirical base frequencies
+	Partition: 65 best-scoring AA model: DUMMY2 likelihood -706.721068 with empirical base frequencies
+	Partition: 66 best-scoring AA model: DUMMY2 likelihood -982.160252 with empirical base frequencies
+	Partition: 67 best-scoring AA model: DUMMY2 likelihood -594.745799 with empirical base frequencies
+	Partition: 68 best-scoring AA model: DUMMY2 likelihood -886.512504 with empirical base frequencies
+	Partition: 69 best-scoring AA model: DUMMY2 likelihood -791.314719 with empirical base frequencies
+	Partition: 70 best-scoring AA model: DUMMY2 likelihood -1879.192719 with empirical base frequencies
+	Partition: 71 best-scoring AA model: DUMMY2 likelihood -2298.408525 with empirical base frequencies
+	Partition: 72 best-scoring AA model: DUMMY2 likelihood -1597.536170 with empirical base frequencies
+	Partition: 73 best-scoring AA model: DUMMY2 likelihood -827.830285 with empirical base frequencies
+	Partition: 74 best-scoring AA model: DUMMY2 likelihood -1205.849563 with empirical base frequencies
+	Partition: 75 best-scoring AA model: DUMMY2 likelihood -28109.253764 with empirical base frequencies
+	Partition: 76 best-scoring AA model: DUMMY2 likelihood -24872.550321 with empirical base frequencies
+	Partition: 77 best-scoring AA model: STMTREV likelihood -900.101503 with empirical base frequencies
+	Partition: 78 best-scoring AA model: DUMMY2 likelihood -1513.396338 with empirical base frequencies
+
+
+Tree 0: -190286.392855
+Tree 1: -191547.580359
+
+
+Time for Optimization of per-site log likelihoods 384.704242
+Per-site Log Likelihoods written to File /home/jfwalker/Desktop/ConflictAndChloroplasts/FSAruns/separatedseqs_results/SpeciesTree/TwoTopology/AA_twoTop/RAxML_perSiteLLs.Topologies_SSLL in Tree-Puzzle format
+Execution information file written to :  /home/jfwalker/Desktop/ConflictAndChloroplasts/FSAruns/separatedseqs_results/SpeciesTree/TwoTopology/AA_twoTop/RAxML_info.Topologies_SSLL

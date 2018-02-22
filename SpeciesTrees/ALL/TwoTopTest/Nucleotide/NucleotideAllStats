@@ -1,0 +1,88 @@
+######################################################
+Difference in supermatrices: 95.2695060594706
+######################################################
+DNA, accD.fa.cds.fsa.nuc.aln: -9.09265599994069
+DNA, atpA.fa.cds.fsa.nuc.aln: -8.33027899992885
+DNA, atpB.fa.cds.fsa.nuc.aln: -9.08628600014526
+DNA, atpE.fa.cds.fsa.nuc.aln: 1.30561800000123
+DNA, atpF.fa.cds.fsa.nuc.aln: 1.53752299999451
+DNA, atpH.fa.cds.fsa.nuc.aln: 0.00463499999864325
+DNA, atpI.fa.cds.fsa.nuc.aln: -4.01803900003051
+DNA, ccsA.fa.cds.fsa.nuc.aln: 4.76357200007806
+DNA, cemA.fa.cds.fsa.nuc.aln: -1.12875099998018
+DNA, clpP.fa.cds.fsa.nuc.aln: 1.44870099998934
+DNA, infA.fa.cds.fsa.nuc.aln: -0.949405999998589
+DNA, matK.fa.cds.fsa.nuc.aln: 0.601140000144369
+DNA, ndhA.fa.cds.fsa.nuc.aln: -0.283919000026799
+DNA, ndhB.fa.cds.fsa.nuc.aln: -3.67623899993305
+DNA, ndhC.fa.cds.fsa.nuc.aln: 1.03507699999727
+DNA, ndhD.fa.cds.fsa.nuc.aln: 6.12695600007828
+DNA, ndhE.fa.cds.fsa.nuc.aln: 0.491990999998507
+DNA, ndhF.fa.cds.fsa.nuc.aln: 2.37001399986912
+DNA, ndhG.fa.cds.fsa.nuc.aln: 1.21294500000658
+DNA, ndhH.fa.cds.fsa.nuc.aln: 0.654337999998461
+DNA, ndhI.fa.cds.fsa.nuc.aln: -0.88459299999613
+DNA, ndhJ.fa.cds.fsa.nuc.aln: -2.37656599999218
+DNA, ndhK.fa.cds.fsa.nuc.aln: 1.62236699996902
+DNA, petA.fa.cds.fsa.nuc.aln: -6.04323300004125
+DNA, petB.fa.cds.fsa.nuc.aln: -2.68676699998923
+DNA, petD.fa.cds.fsa.nuc.aln: 1.52326700000594
+DNA, petG.fa.cds.fsa.nuc.aln: 0.152171999999041
+DNA, petL.fa.cds.fsa.nuc.aln: -0.436586000000375
+DNA, petN.fa.cds.fsa.nuc.aln: -1.33159899999987
+DNA, psaA.fa.cds.fsa.nuc.aln: -1.15271900014159
+DNA, psaB.fa.cds.fsa.nuc.aln: 5.24050899971553
+DNA, psaC.fa.cds.fsa.nuc.aln: -0.0856990000022506
+DNA, psaI.fa.cds.fsa.nuc.aln: 0.461176000000705
+DNA, psaJ.fa.cds.fsa.nuc.aln: 0.385871000001544
+DNA, psbA.fa.cds.fsa.nuc.aln: -2.12470999991729
+DNA, psbB.fa.cds.fsa.nuc.aln: 0.179825000101118
+DNA, psbC.fa.cds.fsa.nuc.aln: 3.63654999999017
+DNA, psbD.fa.cds.fsa.nuc.aln: -3.13223399999697
+DNA, psbE.fa.cds.fsa.nuc.aln: 0.010761000004095
+DNA, psbF.fa.cds.fsa.nuc.aln: -0.447266999999442
+DNA, psbH.fa.cds.fsa.nuc.aln: -1.82594800000311
+DNA, psbI.fa.cds.fsa.nuc.aln: -0.630776999999966
+DNA, psbJ.fa.cds.fsa.nuc.aln: 0.051372999999785
+DNA, psbK.fa.cds.fsa.nuc.aln: 0.0992339999984324
+DNA, psbL.fa.cds.fsa.nuc.aln: 0.0456220000006624
+DNA, psbM.fa.cds.fsa.nuc.aln: -1.77511100000004
+DNA, psbN.fa.cds.fsa.nuc.aln: 0.00257000000090102
+DNA, psbT.fa.cds.fsa.nuc.aln: -1.88543499999957
+DNA, psbZ.fa.cds.fsa.nuc.aln: -0.00249700000006214
+DNA, rbcL.fa.cds.fsa.nuc.aln: -21.421004000078
+DNA, rpl14.fa.cds.fsa.nuc.aln: -0.00244299999894793
+DNA, rpl16.fa.cds.fsa.nuc.aln: -2.49297700000398
+DNA, rpl20.fa.cds.fsa.nuc.aln: -0.940656000000672
+DNA, rpl22.fa.cds.fsa.nuc.aln: -1.094935000031
+DNA, rpl23.fa.cds.fsa.nuc.aln: -3.12626299999988
+DNA, rpl2.fa.cds.fsa.nuc.aln: -3.52758299998368
+DNA, rpl32.fa.cds.fsa.nuc.aln: -1.29097200000297
+DNA, rpl33.fa.cds.fsa.nuc.aln: -1.75809799999638
+DNA, rpl36.fa.cds.fsa.nuc.aln: 0.0494299999992336
+DNA, rpoA.fa.cds.fsa.nuc.aln: 0.577056999974957
+DNA, rpoB.fa.cds.fsa.nuc.aln: -4.99198999960572
+DNA, rpoC1.fa.cds.fsa.nuc.aln: -6.57211900000038
+DNA, rpoC2.fa.cds.fsa.nuc.aln: 4.73071899951901
+DNA, rps11.fa.cds.fsa.nuc.aln: -1.23401100000683
+DNA, rps12.fa.cds.fsa.nuc.aln: -0.0189880000000358
+DNA, rps14.fa.cds.fsa.nuc.aln: 0.161382999998295
+DNA, rps15.fa.cds.fsa.nuc.aln: -2.03771400000733
+DNA, rps16.fa.cds.fsa.nuc.aln: -1.95803299999761
+DNA, rps18.fa.cds.fsa.nuc.aln: 0.00376999999753025
+DNA, rps19.fa.cds.fsa.nuc.aln: 0.516727000005631
+DNA, rps2.fa.cds.fsa.nuc.aln: -2.06201200000942
+DNA, rps3.fa.cds.fsa.nuc.aln: 2.08899899998778
+DNA, rps4.fa.cds.fsa.nuc.aln: 0.351258999981837
+DNA, rps7.fa.cds.fsa.nuc.aln: -1.15313000001015
+DNA, rps8.fa.cds.fsa.nuc.aln: -4.57403299999078
+DNA, ycf1.fa.cds.fsa.nuc.aln: -4.00755699898582
+DNA, ycf2.fa.cds.fsa.nuc.aln: -3.30313799954456
+DNA, ycf3.fa.cds.fsa.nuc.aln: 0.195574000009856
+DNA, ycf4.fa.cds.fsa.nuc.aln: -7.9532590000199
+#######################Gene Counts#######################
+Supermatrix: 34
+Coalescent: 45
+#######################Site Counts#######################
+Supermatrix: 13127
+Conflicting: 90002

@@ -1,0 +1,88 @@
+######################################################
+Difference in supermatrices: 1261.18754100188
+######################################################
+AUTO, accD.fa.pep.fsa.aln: 6.65793200001372
+AUTO, atpA.fa.pep.fsa.aln: 24.1348379999981
+AUTO, atpB.fa.pep.fsa.aln: 4.22453599999653
+AUTO, atpE.fa.pep.fsa.aln: 22.7701119999995
+AUTO, atpF.fa.pep.fsa.aln: 14.055319000001
+AUTO, atpH.fa.pep.fsa.aln: 0.293858000000142
+AUTO, atpI.fa.pep.fsa.aln: 6.22937700000307
+AUTO, ccsA.fa.pep.fsa.aln: 42.5930699999944
+AUTO, cemA.fa.pep.fsa.aln: 41.7340979999944
+AUTO, clpP.fa.pep.fsa.aln: 3.03606300000092
+AUTO, infA.fa.pep.fsa.aln: 6.21924800000033
+AUTO, matK.fa.pep.fsa.aln: 113.81207499999
+AUTO, ndhA.fa.pep.fsa.aln: 22.8020609999994
+AUTO, ndhB.fa.pep.fsa.aln: 21.344693
+AUTO, ndhC.fa.pep.fsa.aln: 3.18104499999993
+AUTO, ndhD.fa.pep.fsa.aln: 31.934902999983
+AUTO, ndhE.fa.pep.fsa.aln: 2.66130399999963
+AUTO, ndhF.fa.pep.fsa.aln: 86.6238299999859
+AUTO, ndhG.fa.pep.fsa.aln: 24.8330829999995
+AUTO, ndhH.fa.pep.fsa.aln: 15.4721039999936
+AUTO, ndhI.fa.pep.fsa.aln: 7.54038399999854
+AUTO, ndhJ.fa.pep.fsa.aln: 5.55453900000066
+AUTO, ndhK.fa.pep.fsa.aln: 8.02795900000183
+AUTO, petA.fa.pep.fsa.aln: 12.9030659999999
+AUTO, petB.fa.pep.fsa.aln: 0.0892850000007002
+AUTO, petD.fa.pep.fsa.aln: 0.496558000000277
+AUTO, petG.fa.pep.fsa.aln: 0.213271999999961
+AUTO, petL.fa.pep.fsa.aln: 1.00479000000013
+AUTO, petN.fa.pep.fsa.aln: -0.0185610000000622
+AUTO, psaA.fa.pep.fsa.aln: 30.6396669999908
+AUTO, psaB.fa.pep.fsa.aln: 10.3701340000061
+AUTO, psaC.fa.pep.fsa.aln: 3.09214799999978
+AUTO, psaI.fa.pep.fsa.aln: 2.79511399999996
+AUTO, psaJ.fa.pep.fsa.aln: 6.62366100000003
+AUTO, psbA.fa.pep.fsa.aln: 5.34549999999876
+AUTO, psbB.fa.pep.fsa.aln: 17.8548259999998
+AUTO, psbC.fa.pep.fsa.aln: 1.68197999999916
+AUTO, psbD.fa.pep.fsa.aln: 4.10298600000215
+AUTO, psbE.fa.pep.fsa.aln: -0.561156000000267
+AUTO, psbF.fa.pep.fsa.aln: 1.307861
+AUTO, psbH.fa.pep.fsa.aln: 4.18068599999958
+AUTO, psbI.fa.pep.fsa.aln: 0.158367999999967
+AUTO, psbJ.fa.pep.fsa.aln: 1.30981699999998
+AUTO, psbK.fa.pep.fsa.aln: 6.2507360000003
+AUTO, psbL.fa.pep.fsa.aln: -0.0903519999999958
+AUTO, psbM.fa.pep.fsa.aln: 0.584755999999999
+AUTO, psbN.fa.pep.fsa.aln: 3.25630199999986
+AUTO, psbT.fa.pep.fsa.aln: 8.38820000000007
+AUTO, psbZ.fa.pep.fsa.aln: 1.02091200000007
+AUTO, rbcL.fa.pep.fsa.aln: 33.7431109999984
+AUTO, rpl14.fa.pep.fsa.aln: 5.35364300000049
+AUTO, rpl16.fa.pep.fsa.aln: 1.13382300000012
+AUTO, rpl20.fa.pep.fsa.aln: 10.3084750000005
+AUTO, rpl22.fa.pep.fsa.aln: 26.6859799999982
+AUTO, rpl23.fa.pep.fsa.aln: 7.45091300000001
+AUTO, rpl2.fa.pep.fsa.aln: 4.41390200000274
+AUTO, rpl32.fa.pep.fsa.aln: -7.31532100000004
+AUTO, rpl33.fa.pep.fsa.aln: 5.64442199999985
+AUTO, rpl36.fa.pep.fsa.aln: -0.226621000000051
+AUTO, rpoA.fa.pep.fsa.aln: 31.6288800000011
+AUTO, rpoB.fa.pep.fsa.aln: 73.3542430000289
+AUTO, rpoC1.fa.pep.fsa.aln: 46.3250499999913
+AUTO, rpoC2.fa.pep.fsa.aln: 135.024566000015
+AUTO, rps11.fa.pep.fsa.aln: 2.90557300000069
+AUTO, rps12.fa.pep.fsa.aln: 1.75179900000023
+AUTO, rps14.fa.pep.fsa.aln: 6.77544599999987
+AUTO, rps15.fa.pep.fsa.aln: 3.25538399999948
+AUTO, rps16.fa.pep.fsa.aln: 5.1799400000001
+AUTO, rps18.fa.pep.fsa.aln: 8.39395600000012
+AUTO, rps19.fa.pep.fsa.aln: 5.05101300000013
+AUTO, rps2.fa.pep.fsa.aln: 19.7204989999996
+AUTO, rps3.fa.pep.fsa.aln: 35.1011349999985
+AUTO, rps4.fa.pep.fsa.aln: 11.4784019999981
+AUTO, rps7.fa.pep.fsa.aln: 0.103686000000721
+AUTO, rps8.fa.pep.fsa.aln: 11.4982559999994
+AUTO, ycf1.fa.pep.fsa.aln: 40.5861269999805
+AUTO, ycf2.fa.pep.fsa.aln: 82.6784170000392
+AUTO, ycf3.fa.pep.fsa.aln: 2.27693100000045
+AUTO, ycf4.fa.pep.fsa.aln: 12.1689240000005
+#######################Gene Counts#######################
+Supermatrix: 74
+Coalescent: 5
+#######################Site Counts#######################
+Supermatrix: 18778
+Conflicting: 10565

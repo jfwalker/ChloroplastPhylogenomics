@@ -1,0 +1,159 @@
+```Partition: 0 best-scoring AA model: DUMMY2 likelihood -10340.592773 with empirical base frequencies
+
+Partition: 1 best-scoring AA model: DUMMY2 likelihood -4061.891839 with empirical base frequencies
+
+Partition: 2 best-scoring AA model: DUMMY2 likelihood -3456.865329 with empirical base frequencies
+
+Partition: 3 best-scoring AA model: DUMMY2 likelihood -1621.738557 with empirical base frequencies
+
+Partition: 4 best-scoring AA model: DUMMY2 likelihood -2609.514236 with empirical base frequencies
+
+Partition: 5 best-scoring AA model: RTREV likelihood -229.267466 with empirical base frequencies
+
+Partition: 6 best-scoring AA model: DUMMY2 likelihood -1774.465106 with empirical base frequencies
+
+Partition: 7 best-scoring AA model: DUMMY2 likelihood -6462.756146 with fixed base frequencies
+
+Partition: 8 best-scoring AA model: DUMMY2 likelihood -4308.356752 with empirical base frequencies
+
+Partition: 9 best-scoring AA model: JTT likelihood -3790.069158 with fixed base frequencies
+
+Partition: 10 best-scoring AA model: FLU likelihood -754.411060 with fixed base frequencies
+
+Partition: 11 best-scoring AA model: DUMMY2 likelihood -13228.850840 with empirical base frequencies
+
+Partition: 12 best-scoring AA model: DUMMY2 likelihood -3732.500460 with fixed base frequencies
+
+Partition: 13 best-scoring AA model: STMTREV likelihood -2779.136277 with empirical base frequencies
+
+Partition: 14 best-scoring AA model: DUMMY2 likelihood -1061.884262 with fixed base frequencies
+
+Partition: 15 best-scoring AA model: DUMMY2 likelihood -6228.106124 with empirical base frequencies
+
+Partition: 16 best-scoring AA model: DUMMY2 likelihood -945.039028 with empirical base frequencies
+
+Partition: 17 best-scoring AA model: DUMMY2 likelihood -13900.354375 with empirical base frequencies
+
+Partition: 18 best-scoring AA model: DUMMY2 likelihood -2311.546033 with empirical base frequencies
+
+Partition: 19 best-scoring AA model: DUMMY2 likelihood -3061.172113 with fixed base frequencies
+
+Partition: 20 best-scoring AA model: DUMMY2 likelihood -1821.283168 with fixed base frequencies
+
+Partition: 21 best-scoring AA model: DUMMY2 likelihood -1334.192332 with empirical base frequencies
+
+Partition: 22 best-scoring AA model: DUMMY2 likelihood -3003.946447 with empirical base frequencies
+
+Partition: 23 best-scoring AA model: DUMMY2 likelihood -3088.795440 with empirical base frequencies
+
+Partition: 24 best-scoring AA model: STMTREV likelihood -1012.429171 with empirical base frequencies
+
+Partition: 25 best-scoring AA model: DUMMY2 likelihood -971.007224 with fixed base frequencies
+
+Partition: 26 best-scoring AA model: STMTREV likelihood -168.186275 with empirical base frequencies
+
+Partition: 27 best-scoring AA model: STMTREV likelihood -373.812435 with fixed base frequencies
+
+Partition: 28 best-scoring AA model: MTART likelihood -179.280772 with fixed base frequencies
+
+Partition: 29 best-scoring AA model: FLU likelihood -3537.587835 with empirical base frequencies
+
+Partition: 30 best-scoring AA model: DUMMY2 likelihood -3384.887178 with empirical base frequencies
+
+Partition: 31 best-scoring AA model: STMTREV likelihood -360.548109 with empirical base frequencies
+
+Partition: 32 best-scoring AA model: DUMMY2 likelihood -656.272683 with fixed base frequencies
+
+Partition: 33 best-scoring AA model: DUMMY likelihood -392.867292 with empirical base frequencies
+
+Partition: 34 best-scoring AA model: FLU likelihood -1349.132080 with empirical base frequencies
+
+Partition: 35 best-scoring AA model: JTTDCMUT likelihood -2486.536603 with empirical base frequencies
+
+Partition: 36 best-scoring AA model: CPREV likelihood -2105.307416 with empirical base frequencies
+
+Partition: 37 best-scoring AA model: CPREV likelihood -1298.957668 with empirical base frequencies
+
+Partition: 38 best-scoring AA model: FLU likelihood -384.844156 with empirical base frequencies
+
+Partition: 39 best-scoring AA model: STMTREV likelihood -166.618432 with empirical base frequencies
+
+Partition: 40 best-scoring AA model: FLU likelihood -903.613047 with fixed base frequencies
+
+Partition: 41 best-scoring AA model: STMTREV likelihood -282.689537 with empirical base frequencies
+
+Partition: 42 best-scoring AA model: HIVW likelihood -325.002753 with empirical base frequencies
+
+Partition: 43 best-scoring AA model: DUMMY2 likelihood -842.261846 with empirical base frequencies
+
+Partition: 44 best-scoring AA model: STMTREV likelihood -128.275082 with empirical base frequencies
+
+Partition: 45 best-scoring AA model: HIVW likelihood -266.043931 with fixed base frequencies
+
+Partition: 46 best-scoring AA model: STMTREV likelihood -245.049813 with empirical base frequencies
+
+Partition: 47 best-scoring AA model: CPREV likelihood -273.656688 with fixed base frequencies
+
+Partition: 48 best-scoring AA model: DUMMY2 likelihood -403.443494 with empirical base frequencies
+
+Partition: 49 best-scoring AA model: LG likelihood -3624.366275 with fixed base frequencies
+
+Partition: 50 best-scoring AA model: DUMMY2 likelihood -1054.183793 with fixed base frequencies
+
+Partition: 51 best-scoring AA model: DUMMY2 likelihood -1511.689592 with empirical base frequencies
+
+Partition: 52 best-scoring AA model: DUMMY2 likelihood -2328.106264 with empirical base frequencies
+
+Partition: 53 best-scoring AA model: DUMMY2 likelihood -4172.749139 with empirical base frequencies
+
+Partition: 54 best-scoring AA model: DUMMY2 likelihood -807.189564 with empirical base frequencies
+
+Partition: 55 best-scoring AA model: DUMMY2 likelihood -2384.303533 with empirical base frequencies
+
+Partition: 56 best-scoring AA model: JTT likelihood -1371.934127 with fixed base frequencies
+
+Partition: 57 best-scoring AA model: DUMMY2 likelihood -1068.262319 with fixed base frequencies
+
+Partition: 58 best-scoring AA model: PMB likelihood -321.965292 with empirical base frequencies
+
+Partition: 59 best-scoring AA model: DUMMY2 likelihood -5789.120486 with empirical base frequencies
+
+Partition: 60 best-scoring AA model: DUMMY2 likelihood -11823.654636 with empirical base frequencies
+
+Partition: 61 best-scoring AA model: DUMMY2 likelihood -8316.726041 with empirical base frequencies
+
+Partition: 62 best-scoring AA model: DUMMY2 likelihood -23092.972896 with fixed base frequencies
+
+Partition: 63 best-scoring AA model: HIVB likelihood -1932.179393 with fixed base frequencies
+
+Partition: 64 best-scoring AA model: PMB likelihood -1042.489041 with empirical base frequencies
+
+Partition: 65 best-scoring AA model: DUMMY2 likelihood -1063.789093 with empirical base frequencies
+
+Partition: 66 best-scoring AA model: DUMMY2 likelihood -2004.765176 with fixed base frequencies
+
+Partition: 67 best-scoring AA model: DUMMY2 likelihood -1249.155906 with fixed base frequencies
+
+Partition: 68 best-scoring AA model: DUMMY2 likelihood -1583.886813 with empirical base frequencies
+
+Partition: 69 best-scoring AA model: DUMMY2 likelihood -1261.122522 with empirical base frequencies
+
+Partition: 70 best-scoring AA model: DUMMY2 likelihood -2955.231686 with empirical base frequencies
+
+Partition: 71 best-scoring AA model: DUMMY2 likelihood -4234.791709 with fixed base frequencies
+
+Partition: 72 best-scoring AA model: DUMMY2 likelihood -2529.786842 with empirical base frequencies
+
+Partition: 73 best-scoring AA model: DUMMY2 likelihood -1232.954059 with empirical base frequencies
+
+Partition: 74 best-scoring AA model: DUMMY2 likelihood -2119.737664 with empirical base frequencies
+
+Partition: 75 best-scoring AA model: DUMMY2 likelihood -68964.224484 with empirical base frequencies
+
+Partition: 76 best-scoring AA model: DUMMY2 likelihood -46000.704175 with empirical base frequencies
+
+Partition: 77 best-scoring AA model: STMTREV likelihood -1234.524091 with empirical base frequencies
+
+Partition: 78 best-scoring AA model: DUMMY2 likelihood -2243.143264 with empirical base frequencies
+
+```

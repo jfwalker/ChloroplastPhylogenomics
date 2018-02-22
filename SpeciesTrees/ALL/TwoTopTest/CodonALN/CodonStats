@@ -1,0 +1,88 @@
+######################################################
+Difference in supermatrices: 10453.6701120542
+######################################################
+DNA, accD.fa.cds.fsa.aln: 304.817643000039
+DNA, atpA.fa.cds.fsa.aln: 199.617985999974
+DNA, atpB.fa.cds.fsa.aln: 175.239159000166
+DNA, atpE.fa.cds.fsa.aln: 82.4265199999923
+DNA, atpF.fa.cds.fsa.aln: 142.952826999994
+DNA, atpH.fa.cds.fsa.aln: 35.5796790000018
+DNA, atpI.fa.cds.fsa.aln: 60.3067189999692
+DNA, ccsA.fa.cds.fsa.aln: 284.909410999979
+DNA, cemA.fa.cds.fsa.aln: 200.289950999996
+DNA, clpP.fa.cds.fsa.aln: 112.707882000032
+DNA, infA.fa.cds.fsa.aln: 41.6162700000014
+DNA, matK.fa.cds.fsa.aln: 692.042023000125
+DNA, ndhA.fa.cds.fsa.aln: 181.922471000025
+DNA, ndhB.fa.cds.fsa.aln: 68.7397589999628
+DNA, ndhC.fa.cds.fsa.aln: 59.6690920000065
+DNA, ndhD.fa.cds.fsa.aln: -17953.4212809997
+DNA, ndhE.fa.cds.fsa.aln: 63.0557110000036
+DNA, ndhF.fa.cds.fsa.aln: 647.094176999897
+DNA, ndhG.fa.cds.fsa.aln: 105.474656000018
+DNA, ndhH.fa.cds.fsa.aln: 132.444056000028
+DNA, ndhI.fa.cds.fsa.aln: 88.0083070000201
+DNA, ndhJ.fa.cds.fsa.aln: 70.4789030000056
+DNA, ndhK.fa.cds.fsa.aln: 107.571461000008
+DNA, petA.fa.cds.fsa.aln: 102.502089999989
+DNA, petB.fa.cds.fsa.aln: 106.103084999999
+DNA, petD.fa.cds.fsa.aln: 44.9212840000105
+DNA, petG.fa.cds.fsa.aln: 1.73577700000089
+DNA, petL.fa.cds.fsa.aln: 11.2976370000005
+DNA, petN.fa.cds.fsa.aln: -0.352688999999828
+DNA, psaA.fa.cds.fsa.aln: 231.886676999844
+DNA, psaB.fa.cds.fsa.aln: 199.66366599998
+DNA, psaC.fa.cds.fsa.aln: 19.276707999996
+DNA, psaI.fa.cds.fsa.aln: 7.9015600000007
+DNA, psaJ.fa.cds.fsa.aln: 26.5042679999997
+DNA, psbA.fa.cds.fsa.aln: 71.1586289999796
+DNA, psbB.fa.cds.fsa.aln: 155.546263999981
+DNA, psbC.fa.cds.fsa.aln: 131.086408000037
+DNA, psbD.fa.cds.fsa.aln: 46.909701000046
+DNA, psbE.fa.cds.fsa.aln: 35.9656729999958
+DNA, psbF.fa.cds.fsa.aln: 21.4250679999999
+DNA, psbH.fa.cds.fsa.aln: 49.3179559999992
+DNA, psbI.fa.cds.fsa.aln: -2.32968200000107
+DNA, psbJ.fa.cds.fsa.aln: 9.83160299999929
+DNA, psbK.fa.cds.fsa.aln: 14.3412330000044
+DNA, psbL.fa.cds.fsa.aln: 52.3565289999979
+DNA, psbM.fa.cds.fsa.aln: 10.5670150000009
+DNA, psbN.fa.cds.fsa.aln: 17.9026690000001
+DNA, psbT.fa.cds.fsa.aln: 22.2611470000006
+DNA, psbZ.fa.cds.fsa.aln: 12.4927630000021
+DNA, rbcL.fa.cds.fsa.aln: 190.039526000161
+DNA, rpl14.fa.cds.fsa.aln: 25.8086769999991
+DNA, rpl16.fa.cds.fsa.aln: 75.9797039999985
+DNA, rpl20.fa.cds.fsa.aln: 72.2169049999957
+DNA, rpl22.fa.cds.fsa.aln: 210.757390999998
+DNA, rpl23.fa.cds.fsa.aln: 13.5122449999992
+DNA, rpl2.fa.cds.fsa.aln: -3882.4293380001
+DNA, rpl32.fa.cds.fsa.aln: 73.2878689999975
+DNA, rpl33.fa.cds.fsa.aln: 57.7779970000008
+DNA, rpl36.fa.cds.fsa.aln: 23.8350549999994
+DNA, rpoA.fa.cds.fsa.aln: 259.965861999988
+DNA, rpoB.fa.cds.fsa.aln: 428.05213299963
+DNA, rpoC1.fa.cds.fsa.aln: 283.007971999832
+DNA, rpoC2.fa.cds.fsa.aln: 832.857624001124
+DNA, rps11.fa.cds.fsa.aln: 70.4108030000089
+DNA, rps12.fa.cds.fsa.aln: 21.6074440000043
+DNA, rps14.fa.cds.fsa.aln: 49.3081800000009
+DNA, rps15.fa.cds.fsa.aln: 81.0091180000013
+DNA, rps16.fa.cds.fsa.aln: 37.5125400000029
+DNA, rps18.fa.cds.fsa.aln: 15.4053530000047
+DNA, rps19.fa.cds.fsa.aln: 42.3515630000029
+DNA, rps2.fa.cds.fsa.aln: 108.648010000012
+DNA, rps3.fa.cds.fsa.aln: 201.012593000038
+DNA, rps4.fa.cds.fsa.aln: 110.495690999991
+DNA, rps7.fa.cds.fsa.aln: 19.1232199999972
+DNA, rps8.fa.cds.fsa.aln: 105.357247
+DNA, ycf1.fa.cds.fsa.aln: 2351.60390199951
+DNA, ycf2.fa.cds.fsa.aln: 262.878185001886
+DNA, ycf3.fa.cds.fsa.aln: 39.7459609999942
+DNA, ycf4.fa.cds.fsa.aln: 61.3740350000098
+#######################Gene Counts#######################
+Supermatrix: 75
+Coalescent: 4
+#######################Site Counts#######################
+Supermatrix: 20391
+Conflicting: 91716
