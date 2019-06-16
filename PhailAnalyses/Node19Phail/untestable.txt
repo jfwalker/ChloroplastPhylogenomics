@@ -1,0 +1,8 @@
+no constraint used for: infA.fa.cds.fsa.nuc.aln0 ['Acnistus_arborescens', 'Coffea_arabica']
+no constraint used for: infA.fa.cds.fsa.nuc.aln1 ['Olea_europaea', 'Coffea_arabica']
+no constraint used for: ccsA.fa.cds.fsa.nuc.aln1 ['Olea_europaea', 'Coffea_arabica']
+no constraint used for: psbB.fa.cds.fsa.nuc.aln0 ['Acnistus_arborescens', 'Coffea_arabica']
+no constraint used for: rps12.fa.cds.fsa.nuc.aln1 ['Olea_europaea', 'Coffea_arabica']
+no constraint used for: ndhK.fa.cds.fsa.nuc.aln1 ['Olea_europaea', 'Coffea_arabica']
+no constraint used for: psbZ.fa.cds.fsa.nuc.aln0 ['Acnistus_arborescens', 'Coffea_arabica']
+no constraint used for: psbZ.fa.cds.fsa.nuc.aln1 ['Olea_europaea', 'Coffea_arabica']

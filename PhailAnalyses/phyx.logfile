@@ -1,0 +1,2 @@
+pxs2fa -s ../../ChloroplastPhylogenomics/SpeciesTrees/ALL/Nucleotide/ -o FSAnuc.fa
+pxs2fa -s ../../ChloroplastPhylogenomics/SpeciesTrees/ALL/Nucleotide/FSAnuc.phy -o FSAnuc.fa
